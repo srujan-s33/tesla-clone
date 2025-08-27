@@ -29,9 +29,9 @@ Features
 
 ---
 
-Project Structure
-tesla-clone/
-│── index.html # Main homepage
-│── style.css # Stylesheet
-│── assets/ # Images & icons used
-│── README.md # Project documentation
+Project Structure<br>
+tesla-clone/<br>
+│── index.html # Main homepage<br>
+│── style.css # Stylesheet<br>
+│── assets/ # Images & icons used<br>
+│── README.md # Project documentation<br>
